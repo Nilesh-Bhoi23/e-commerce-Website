@@ -1,4 +1,4 @@
 ## <i>e-commerce-Website</i>
-<b> HTML </b>
-<b> CSS </b>
-<b> JS </b>
+<b> HTML </b> <br>
+<b> CSS </b> <br>
+<b> JS </b> <br>
